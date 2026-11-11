@@ -25,7 +25,7 @@ export function PortraitExhibit() {
         }}
       >
         <Image
-          src="/images/joanna-portrait.jpg"
+          src="/images/joanna-portrait.JPG"
           alt="Portrait of Kayla Joanna Irsy Kusumah"
           fill
           priority
