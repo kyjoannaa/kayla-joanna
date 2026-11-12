@@ -91,7 +91,7 @@ export const museumCatalog = {
     },
     {
       id: "exercise-hr",
-      ticketNumber: "EXP-ORG-04",
+      ticketNumber: "EXP-ORG-02",
       type: "Organizational",
       role: "Staff of Human Resource",
       institution: "EXERCISE FTUI 2025",
@@ -121,7 +121,7 @@ export const museumCatalog = {
     },
     {
       id: "exercise-backend",
-      ticketNumber: "EXP-ORG-02",
+      ticketNumber: "EXP-ORG-04",
       type: "Organizational",
       role: "Software Backend Engineering Intern",
       institution: "EXERCISE FTUI",
