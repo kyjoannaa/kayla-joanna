@@ -112,7 +112,7 @@ export const museumCatalog = {
       institution: "IME FTUI (Ikatan Mahasiswa Elektro)",
       period: "Feb 2025 — Jan 2026",
       location: "Depok, West Java, Indonesia",
-      image: "/images/student-affairs.jpeg",
+      image: "/images/kema.jpeg",
       badgeColor: "#4f2b45",
       bulletPoints: [
         "Honored as the 'Best Performing Staff of 2025' for driving impactful student development initiatives.",
@@ -127,7 +127,7 @@ export const museumCatalog = {
       institution: "EXERCISE FTUI 2025",
       period: "Feb 2025 — Dec 2025",
       location: "Depok, West Java, Indonesia",
-      image: "/images/chairman.jpg",
+      image: "/images/hrexer.jpeg",
       badgeColor: "#2d5d3b",
       bulletPoints: [
         "Developed a specialized mentorship program focused on UI/UX Development, successfully upskilling entry-level members into proficient designers.",
